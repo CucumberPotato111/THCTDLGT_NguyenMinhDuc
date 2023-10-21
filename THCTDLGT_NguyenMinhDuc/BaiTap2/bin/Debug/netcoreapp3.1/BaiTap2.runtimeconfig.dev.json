@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Automaton\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Automaton\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\bin\Debug\net7.0\DSLKDon.exe
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\bin\Debug\net7.0\DSLKDon.deps.json
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\bin\Debug\net7.0\DSLKDon.runtimeconfig.json
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\bin\Debug\net7.0\DSLKDon.dll
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\bin\Debug\net7.0\DSLKDon.pdb
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.csproj.AssemblyReference.cache
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.GeneratedMSBuildEditorConfig.editorconfig
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.AssemblyInfoInputs.cache
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.AssemblyInfo.cs
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.csproj.CoreCompileInputs.cache
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.dll
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\refint\DSLKDon.dll
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.pdb
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\DSLKDon.genruntimeconfig.cache
+B:\Codes\C#\Lab\THCTDLGT_NguyenMinhDuc\DSLKDon\obj\Debug\net7.0\ref\DSLKDon.dll
